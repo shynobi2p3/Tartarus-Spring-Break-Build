@@ -1,0 +1,14 @@
+{
+"companyName": "DenisonComputerGamez",
+"productName": "Tartarus Game",
+"dataUrl": "0.8 Beta.data.unityweb",
+"wasmCodeUrl": "0.8 Beta.wasm.code.unityweb",
+"wasmFrameworkUrl": "0.8 Beta.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "0.8 Beta.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
